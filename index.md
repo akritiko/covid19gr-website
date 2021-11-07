@@ -8,7 +8,7 @@ permalink: /
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5651141.svg)](https://doi.org/10.5281/zenodo.5651141)
 
-_[(κάντε κλικ εδώ για να δείτε την εκδοχή της σελίδας στα ελληνικά 🇬🇷)](https://github.com/akritiko/covid19gr/)_
+_[(κάντε κλικ εδώ για να δείτε την εκδοχή της σελίδας στα ελληνικά 🇬🇷)](https://www.covid19gr.org/gr)_
 
 # COVID19gr - Open Data aggregation and Knowledge Base repository for COVID-19 in Greece. 
 
