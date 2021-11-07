@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home (EL)
-nav_order: 98
+nav_order: 2
 description: ""
 permalink: /gr
 ---
