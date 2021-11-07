@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home (EL)
+title: Home - Ελληνικά
 nav_order: 2
 description: ""
 permalink: /gr

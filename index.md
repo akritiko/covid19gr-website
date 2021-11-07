@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home (EN)
+title: Home - English
 nav_order: 1
 description: ""
 permalink: /
