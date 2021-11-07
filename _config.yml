@@ -81,7 +81,7 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "LICENSE: This work, created by Apostolos Kritikos, is published under Public Domain CC0 License. You can reuse it with absolutely no obligation. If, however, you wish to reference the work you can use this citation: Apostolos Kritikos. (2021). akritiko/covid19gr: Diogenes (4.0.0). Zenodo. https://doi.org/10.5281/zenodo.5651141"
+footer_content: "This work, created by Apostolos Kritikos, is published under Public Domain CC0 License. You can reuse it with absolutely no obligation. If, however, you wish to reference the work you can use this citation: Apostolos Kritikos. (2021). akritiko/covid19gr: Diogenes (4.0.0). Zenodo. https://doi.org/10.5281/zenodo.5651141"
 
 # Footer last edited timestamp
 last_edit_timestamp: false # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
