@@ -2,7 +2,7 @@
 layout: default
 title: Home (EN)
 nav_order: 1
-description: "J"
+description: ""
 permalink: /
 ---
 

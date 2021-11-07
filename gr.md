@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Home (EL)
-nav_order: 2
+nav_order: 98
+description: ""
+permalink: /gr
 ---
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5651141.svg)](https://doi.org/10.5281/zenodo.5651141)
